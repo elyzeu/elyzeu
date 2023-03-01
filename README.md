@@ -3,6 +3,7 @@
 - 🌱 Eu estou aprendendo mais sobre php...
 - 💞️ Colaboração!
 - 📫 elyzeumozartcardoso@gmail.com
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 <!---
 elyzeu/elyzeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
