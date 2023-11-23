@@ -26,7 +26,7 @@ Criação de um chat de conversa com node e aprimoramento do mesmo.
   </div>
   </br>
   Estatísticas 
-  <a href="https://github-readme-stats.vercel.app/api?username=elyzeu"></a>
+  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=elyzeu&show_icons=true)
   </br>
 
 
