@@ -1,8 +1,13 @@
 - 👋 Olá, eu sou elyzeu
-- 👀 Eu sou interessado em elaborar documentação de sistemas, banco de dados e codificar...
-- 🌱 Eu estou aprendendo mais sobre php...
-- 💞️ Colaboração!
+- 📚 Eu sou interessado em elaborar documentação de sistemas, banco de dados e codificar...
+- 🌱 Eu estou aprendendo mais sobre node e JS...
 - 📫 elyzeumozartcardoso@gmail.com
+- 🏫 Formado em Sistemas de Informação
+
+## Trabalhos Atuais
+Criação de um chat de conversa com node e aprimoramento do mesmo.
+
+
 ## Tecnologias
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />
@@ -21,6 +26,7 @@
   </div>
   </br>
   Estatísticas 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyzeu)](https://github.com/anuraghazra/github-readme-stats)
   </br>
 
 
