@@ -24,10 +24,15 @@ Criação de um chat de conversa com node e aprimoramento do mesmo.
   <a href="https://www.instagram.com/elyzeu_mozart/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   </div>
-  </br>
+   </br>
   Estatísticas 
-  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=elyzeu&show_icons=true)
   </br>
+  <div>
+<a href="https://github.com/elyzeu">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyzeu&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elyzeu-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elyzeu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 <!---
